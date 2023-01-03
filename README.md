@@ -1,4 +1,4 @@
-#这个是部署到ipfs公链的地址，你们客户以登录看看/n
+# 这个是部署到ipfs公链的地址，你们客户可以登录看看
 [shrill-recipe-2291.on.fleek.co](https://shrill-recipe-2291.on.fleek.co/)
 # Sample Hardhat Project
 
