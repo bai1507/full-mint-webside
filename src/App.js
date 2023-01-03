@@ -5,6 +5,7 @@ import Navbar from  './NavBar';
 
 function App() {
   const [accounts,setAccounts] = useState([]);
+
   return (
     <div className='overlay'>
       <div className="App">

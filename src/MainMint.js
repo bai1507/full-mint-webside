@@ -40,7 +40,6 @@ const MainMint = ({ accounts, setAccounts }) => {
         console.log("error:", error);
         const mes = error.error.message.toString()
         setIsError(!isError)
-        
         setTitle(mes.split(":")[0])
         setContent(mes.split(":")[1])
 
